@@ -2,7 +2,7 @@
     "name": "hidayat/makeviewcommand",
     "description": "Create view in the resources/views directory",
     "type": "metapackage",
-    "license": "open source",
+    "license": "MIT",
     "authors": [
         {
             "name": "hidayat ullah",
