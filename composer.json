@@ -15,12 +15,5 @@
         "psr-4": {
             "hidayat\\makeviewcommand\\": "src/"
         }
-    },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "hidayat\\makeviewcommand\\ViewCommandServiceProvider"
-            ]
-        }
     }
 }
