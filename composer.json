@@ -1,0 +1,26 @@
+{
+    "name": "hidayat/makeviewcommand",
+    "description": "Create view in the resources/views directory",
+    "type": "metapackage",
+    "license": "open source",
+    "authors": [
+        {
+            "name": "hidayat ullah",
+            "email": "hidayat3676@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "hidayat\\makeviewcommand\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "hidayat\\makeviewcommand\\ViewCommandServiceProvider"
+            ]
+        }
+    }
+}
