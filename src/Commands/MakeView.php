@@ -1,6 +1,6 @@
 <?php
 
-namespace hidayat\makeviewcommand;
+namespace hidayat\makeviewcommand\src\Commands;
 
 use Illuminate\Console\Command;
 
