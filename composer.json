@@ -1,7 +1,7 @@
 {
     "name": "hidayat/makeviewcommand",
     "description": "Create view in the resources/views directory",
-    "type": "metapackage",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
