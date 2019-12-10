@@ -21,6 +21,6 @@
         "providers": [
             "hidayat\\makeviewcommand\\ViewCommandServiceProvider"
         ]
-    }
-  }
+          }
+      }
 }
