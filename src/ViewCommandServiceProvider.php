@@ -3,7 +3,7 @@
 namespace hidayat\makeviewcommand;
 
 use Illuminate\Support\ServiceProvider;
-
+use hidayat\makeviewcommand\src\Commands\MakeView;
 class ViewCommandServiceProvider extends ServiceProvider
 {
     /**
