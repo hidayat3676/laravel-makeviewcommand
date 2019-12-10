@@ -3,10 +3,13 @@
     "description": "Create view in the resources/views directory",
     "type": "library",
     "license": "MIT",
+    "readme" : "https://github.com/hidayat3676/laravel-makeviewcommand/blob/master/README.md",
     "authors": [
         {
             "name": "hidayat ullah",
-            "email": "hidayat3676@gmail.com"
+            "email": "hidayat3676@gmail.com",
+            "homepage": "https://vuonlinesupport.com",
+            "role": "Developer"
         }
     ],
     "minimum-stability": "dev",
