@@ -1,5 +1,5 @@
 # laravel-makeviewcommand
-this package contain a new make:view artisan command used to generate views in the view directory
+This package contain a new artisan command which can be used to create views using CLI (command line interface) instead of creating views manually in the views directory.
 
 <code> composer require hidayat/makeviewcommand </code>
 
